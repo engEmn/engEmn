@@ -1,6 +1,5 @@
 # Hi, I'm Eman 👋
 - 💻 Frontend Developer (React + TypeScript + Tailwind)
-- 🌱 Learning backend basics
 - 📫 Reach me: eng.emnsalah@gmail.com
 
 <!--
