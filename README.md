@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi, I'm Eman 👋
+- 💻 Frontend Developer (React + TypeScript + Tailwind)
+- 🌱 Learning backend basics
+- 📫 Reach me: eng.emnsalah@gmail.com
 
 <!--
 **engEmn/engEmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
